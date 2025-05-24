@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rose-13445
+- 👋 Hi, I’m Rose
 - 👀 I’m interested in games, art, music, and fitness
 - 🌱 I’m currently learning C# software engineering
 - 💞️ I’m looking to collaborate on some video game projects mayhaps
