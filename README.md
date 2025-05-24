@@ -1,3 +1,4 @@
+# About me
 - 👋 Hi, I’m Rose
 - 👀 I’m interested in games, art, music, and fitness
 - 🌱 I’m currently learning C# software engineering
